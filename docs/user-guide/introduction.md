@@ -22,7 +22,7 @@ For live support with this guide please visit us in **#installation-help** on th
 You can:
 - Customize your gorilla with custom materials, infected materials, hats, and holdables with [*Custom Cosmetics*](https://github.com/wryser/CustomCosmetics)
 - Use custom shirts, badges and more with [*Gorilla Shirts*](https://github.com/developer9998/GorillaShirts)
-- Get a variety of mods all with the press of a button with [*GorillaWatch*](https://github.com/ArtificialGorillas/GorillaWatch)
+- Get a variety of mods all with the press of a button with [*Grate*](https://github.com/The-Graze/Grate)
 - Change the background of the gorilla computer with [*Computer Backgrounds*](https://github.com/Striker-67/computer-backgrounds)
 
 There are *many more mods* to discover, and you'll find them in the **Downloads** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
