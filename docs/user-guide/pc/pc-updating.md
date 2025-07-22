@@ -6,12 +6,12 @@
 
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="pc-mod-updating"></div> -->
 <!-- Guide Page Ad -->
-<ins class="adsbygoogle"
+<!-- ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-1965221367974935"
      data-ad-slot="2604239380"
      data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-full-width-responsive="true"></ins -->
 
 ## Updating Gorilla Tag
 
@@ -23,7 +23,7 @@ By default, Steam automatically updates Gorilla Tag, and your mods should be com
 
 You can update any mods that are installed via the Monke Mod Manager easily.
 
-![Preview](../docs/files/mmmpreview.png)
+![Preview](https://private-user-images.githubusercontent.com/94680235/423025020-8354f118-1932-48ae-8591-23c3a1ae787c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNTY0ODYsIm5iZiI6MTc1MzE1NjE4NiwicGF0aCI6Ii85NDY4MDIzNS80MjMwMjUwMjAtODM1NGYxMTgtMTkzMi00OGFlLTg1OTEtMjNjM2ExYWU3ODdjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDAzNDk0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmOTZiOTViMTQ1ZTY5MmM2MGY0YTRlYThiNDQyYjczY2UwM2MzMmQ0NjhiZGEyM2E0OWFlOTYxNDJkMTdiMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0cBNcTK6yGD8k1hwkjW1gjNTvTsUFxgvOEPDSy9fY2Y)
 
 To update a mod, simply select any installed mods, and hit the *Install/Update* button to begin the process. When the status monitor in the bottom left says "*Install complete!*", you should be good to go!
 
