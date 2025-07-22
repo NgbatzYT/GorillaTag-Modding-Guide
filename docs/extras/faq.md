@@ -5,14 +5,14 @@
 
 ### Isn't modding the game cheating? {docsify-ignore}
 
-!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to private lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
+!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to modded lobbies with Utilla. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
 
 ### Where can I get mods? {docsify-ignore}
 
 **For PC:** Open Monke Mod Manager and select the checkboxes besides the mods you'd like to install, and then hit the *Install/Update* button.  
 For mods outside of Monke Mod Manager, download them, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** channel, or other sources. **Make sure to download any dependencies required by the mod.**
 
-**For Quest:** You can download the mod(s) you wish to install from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#quest-mod-releases** channel, or other sources. **Dependencies should auto-download in QuestPatcher, but if they do not, make sure to download them.**
+**For Quest:** Mods are no longer supported for quest.
 
 ## Game Questions
 
@@ -28,7 +28,7 @@ From the developer:
 
 ### Where can I get Gorilla Tag? {docsify-ignore}
 
-You can download Gorilla Tag **for free** from Steam or Oculus App Lab.
+You can download Gorilla Tag **for free** on Quest but for pc it costs around 20 USD.
 
-> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](https://store.steampowered.com/app/1533390/Gorilla_Tag/)&nbsp;[**Download on Steam**](https://store.steampowered.com/app/1533390/Gorilla_Tag/) {docsify-ignore}
-> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)](https://sidequestvr.com/app/2157/gorilla-tag)&nbsp;[**Download on Oculus App Lab**](https://www.oculus.com/experiences/quest/4979055762136823) {docsify-ignore}
+> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](https://store.steampowered.com/app/1533390/Gorilla_Tag/)&nbsp;[**Buy on Steam**](https://store.steampowered.com/app/1533390/Gorilla_Tag/) {docsify-ignore}
+> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)](https://sidequestvr.com/app/2157/gorilla-tag)&nbsp;[**Download on Oculus Quest**](https://www.oculus.com/experiences/quest/4979055762136823) {docsify-ignore}
