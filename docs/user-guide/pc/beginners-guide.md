@@ -97,3 +97,4 @@ Either remove the mod's .dll or folder from the `BepInEx/plugins` folder, which 
 
 ---
 
+> If you appreciated this guide, you can [send a tip](https://streamelements.com/burritosoft/tip) or [sponsor the main writer](https://github.com/sponsors/burritosoftware).
