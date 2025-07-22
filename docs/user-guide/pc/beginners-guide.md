@@ -2,17 +2,17 @@
 ---
 >
 > This guide only applies to the PC version of Gorilla Tag.  
-> If you're using a Quest (without Link), go to the [**Quest Modding**](quest-guide) guide.
+> If you're using a Quest (without Link), you can't mod anymore unless you have a pc.
 >
 
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="pc-mod-guide"></div> -->
 <!-- Guide Page Ad -->
-<ins class="adsbygoogle"
+<!-- ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-1965221367974935"
      data-ad-slot="2604239380"
      data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-full-width-responsive="true"></ins -->
 
 ## Installers
 
@@ -23,11 +23,11 @@
 ?> This is currently the **recommended mod installer**.
 
 Monke Mod Manager is a mod installer that will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods. Monke Mod Manager also notifies you of any updates upon launch by opening the latest release's page if available.  
-Download Monke Mod Manager from [**Steven's GitHub**](https://github.com/DeadlyKitten/MonkeModManager/releases/latest). Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
+Download Monke Mod Manager from [**Steven's GitHub**](https://github.com/ngbatzyt/MonkeModManager/releases/latest). Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
 
 > Note: If Windows alerts you that the file is unsafe/at risk, choose to keep/run anyway. This is a false-positive.
 
-![Preview](../docs/files/mmmpreview.png)
+![Preview](https://private-user-images.githubusercontent.com/94680235/423025020-8354f118-1932-48ae-8591-23c3a1ae787c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNTY0ODYsIm5iZiI6MTc1MzE1NjE4NiwicGF0aCI6Ii85NDY4MDIzNS80MjMwMjUwMjAtODM1NGYxMTgtMTkzMi00OGFlLTg1OTEtMjNjM2ExYWU3ODdjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDAzNDk0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmOTZiOTViMTQ1ZTY5MmM2MGY0YTRlYThiNDQyYjczY2UwM2MzMmQ0NjhiZGEyM2E0OWFlOTYxNDJkMTdiMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0cBNcTK6yGD8k1hwkjW1gjNTvTsUFxgvOEPDSy9fY2Y)
 
 ## Install Instructions
 
@@ -89,7 +89,7 @@ Either remove the mod's .dll or folder from the `BepInEx/plugins` folder, which 
 
 ## Installing Maps {docsify-ignore}
 
-> Check out the [**PC Custom Maps Guide**](pc-maploading) for info on custom maps, installation, and where to new new maps.
+> Check out the [**PC Custom Maps Guide**](pc-maploading) for info on custom maps.
 
 ## Updating Mods {docsify-ignore}
 
@@ -97,4 +97,3 @@ Either remove the mod's .dll or folder from the `BepInEx/plugins` folder, which 
 
 ---
 
-> If you appreciated this guide, you can [send a tip](https://streamelements.com/burritosoft/tip) or [sponsor the main writer](https://github.com/sponsors/burritosoftware).
