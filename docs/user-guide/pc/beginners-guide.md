@@ -1,7 +1,9 @@
 # PC Beginner's Guide
 ---
 >
-> This guide only applies to the PC version of Gorilla Tag.  
+> This guide only applies to the PC version of Gorilla Tag.
+> Remember Gorilla Tag costs money now so you need to buy it before anything.
+> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](https://store.steampowered.com/app/1533390/Gorilla_Tag/)&nbsp;[**Buy on Steam**](https://store.steampowered.com/app/1533390/Gorilla_Tag/) {docsify-ignore}
 > If you're using a Quest (without Link), you can't mod anymore unless you have a pc.
 >
 
