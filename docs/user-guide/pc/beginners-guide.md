@@ -80,7 +80,7 @@ A mod installer is the recommended way to install mods. See the section [above](
 
 ### Install Mods
 
-4. Download the mod(s) you wish to install, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** channel, or other sources. **Make sure to download any dependencies required by the mod.**  
+4. Download the mod(s) you wish to install, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mods** forum, or other sources. **Make sure to download any dependencies required by the mod.**  
 
 ![Plugins Folder Preview](../docs/files/pluginsfolder.png)
 
