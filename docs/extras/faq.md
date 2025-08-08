@@ -10,7 +10,7 @@
 ### Where can I get mods? {docsify-ignore}
 
 **For PC:** Open Monke Mod Manager and select the checkboxes besides the mods you'd like to install, and then hit the *Install/Update* button.  
-For mods outside of Monke Mod Manager, download them, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** channel, or other sources. **Make sure to download any dependencies required by the mod.**
+For mods outside of Monke Mod Manager, download them, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mods** forum, or other sources. **Make sure to download any dependencies required by the mod.**
 
 **For Quest:** Mods are no longer supported for quest.
 
