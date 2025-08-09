@@ -67,7 +67,7 @@ If you installed your game in a different location, follow these instructions to
 ![Copy Folder Path Preview](../docs/files/copyfolderpath.png)
 
 ## Manual Installation
-A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
+A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 5.
 
 ### Install BepInEx
 
@@ -78,13 +78,17 @@ A mod installer is the recommended way to install mods. See the section [above](
 
 3. Run Gorilla Tag once to complete installation.
 
+!> This step (4) is required otherwise mods will not work!
+
+4. Go to your config folder `BepInEx/config`, which is located in your Gorilla Tag install folder. Then open `BepInEx.cfg` in notepad and find the line `HideManagerGameObject = false` and change it to true.
+
 ### Install Mods
 
-4. Download the mod(s) you wish to install, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** forum, or other sources. **Make sure to download any dependencies required by the mod.**  
+5. Download the mod(s) you wish to install, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** forum, or other sources. **Make sure to download any dependencies required by the mod.**  
 
 ![Plugins Folder Preview](../docs/files/pluginsfolder.png)
 
-5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your Gorilla Tag install folder, and the files should go into the corresponding folders. If you have a .dll file, you'll usually want to put it in `BepInEx/plugins`.
+6. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your Gorilla Tag install folder, and the files should go into the corresponding folders. If you have a .dll file, you'll usually want to put it in `BepInEx/plugins`.
 
 ## Uninstalling Mods
 
