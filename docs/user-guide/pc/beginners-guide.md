@@ -8,15 +8,6 @@
 > If you're using a Quest (without Link), you can't mod anymore unless you have a pc.
 >
 
-<!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="pc-mod-guide"></div> -->
-<!-- Guide Page Ad -->
-<!-- ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1965221367974935"
-     data-ad-slot="2604239380"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins -->
-
 ## Installers
 
 ### Monke Mod Manager {docsify-ignore}
@@ -52,9 +43,9 @@ After that, re-launch Gorilla Tag and if everything went well, your mods will no
 ### Default Location
 
 If you installed your game on your main drive, this should be your installation folder.
-`C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag`
+`C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag` or `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag`
 
-### Other Locations
+### Other Locations (Steam)
 
 If you installed your game in a different location, follow these instructions to find your installation folder.
 
@@ -78,7 +69,7 @@ A mod installer is the recommended way to install mods. See the section [above](
 
 3. Run Gorilla Tag once to complete installation.
 
-!> This step (4) is required otherwise mods will not work!
+!> This step (4) is required otherwise mods will not work! MMM does do this for you.
 
 4. Go to your config folder `BepInEx/config`, which is located in your Gorilla Tag install folder. Then open `BepInEx.cfg` in notepad and find the line `HideManagerGameObject = false` and change it to true.
 
