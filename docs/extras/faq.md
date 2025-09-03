@@ -14,6 +14,33 @@ For mods outside of Monke Mod Manager, download them, whether it be from GitHub,
 
 **For Quest:** Mods are no longer supported for quest.
 
+### What's the difference between cheating and modding?
+This is the Gorilla Tag Modding Groups view on it.
+
+Cheating is prohibited by the developers of the game, and goes against the Gorilla Tag intellectual property. (read more at https://gorillatagvr.com/gorillatagvr-mod-policy/)
+
+#### What is cheating?
+Cheating is including but not limited to:
+* Using mods that work in non-modded lobbies
+* Unless it client-sided/only visible for other modders, like Gorilla Shirts
+* Using cheats
+* Cheats being something like tag gun, tag all and such. They’re not allowed in modded lobbies either. Mainly seen in mod menus.
+* Player tracking
+* Tracking is targeting a specific user to get their room code and if they’re online or not.
+* Cheating and Modding are not the same thing.
+
+What happens if I do it anyway?
+* You’ll get banned from the game, GTMG and most likely also the official Gorilla Tag Discord server.
+* You will have a high chance of installing malicious software as cheat creators usually ship malware with cheats.
+
+#### How do I know if this mod is a cheat?
+Well to be on the safe side, we recommend only using mods from this server or Monke Mod Manager. (type ?mmm to get a link)
+If you want to be extra sure, then make sure it doesn’t go against anything in the What is cheating? section. Or just ask one of our trusted or verified modders!
+
+We encourage you to not to use or install cheats, as it’s ruining the game and our will to keep modding. Please Mod Responsibly!
+
+#### You can use the command !modding in GTMG for AA's official views on it.
+
 ## Game Questions
 
 ### What is Gorilla Tag? {docsify-ignore}
