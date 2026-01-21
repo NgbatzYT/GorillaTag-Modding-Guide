@@ -10,9 +10,9 @@
 - **Links**
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/b2MhDBAzTv)
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/ngbatzyt/GorillaTag-Modding-Guide)
-- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://crowdin.com/project/gorilla-tag-modding-guide)
 - [About](../about)
 - **Statistics**
 - ![GitHub last updated](https://img.shields.io/github/last-commit/ngbatzyt/GorillaTag-Modding-Guide?label=last%20updated)
 - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ngbatzyt/GorillaTag-Modding-Guide)
 - ![Dark blockchain status](https://img.shields.io/badge/dark%20blockchain-enabled-red)
+
