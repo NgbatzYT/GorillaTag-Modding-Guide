@@ -18,10 +18,10 @@ For live support with this guide please visit us in **#pc-installation-help** on
 ### What can you do with mods?
 
 You can:
-- Deliver pizza's with [*Pizza Delivery*](https://github.com/1NobleDuck/PizzaDelivery/)
+- Have cool materials with [*Monke Cosmetics*](https://github.com/ngbatzyt/monkecosmetics)
 - Customize your gorilla with custom clothing and more with [*Gorilla Shirts*](https://github.com/developer9998/gorillashirts)
 - Get a whole bunch of mods with [*Grate*](https://github.com/The-Graze/Grate)
-- Enhance the gorilla computer, see your currently loaded mods, change monitor POV, and more with [*Computer Interface*](https://github.com/decalfree/gorillainterface)
+- Test out your skills with [*Gorilla Trials*](https://github.com/LapisGit/GorillaTrials)
 
 There are *many more mods* to discover, and you'll find them in the **Downloads** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
 
