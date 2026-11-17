@@ -22,5 +22,3 @@ Applicable hardware includes:
 Sadly Quest modding is gone but you can still mod on pc!  
 So if you have a pc that can run PCVR then you can continue getting mods!  
 Though you are able to have [custom maps](https://gorillatagmodding.ngbatzstudios.com/#/pc-maploading).
-
-> ### [![Oculus Logo](https://api.iconify.design/simple-icons/oculus.svg?color=%23A9A9A9&height=19)](quest-guide)&nbsp;[**Continue with Quest Modding**](quest-guide)
