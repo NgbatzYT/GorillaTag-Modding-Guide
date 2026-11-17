@@ -3,7 +3,7 @@
 
 Gorilla Tag is available for both PC and Oculus Quest. Since the modding scene is different for both platforms, the beginners guide is split into [**PC Modding**](pc-guide) and [**Quest Modding**](quest-guide).
 
-## ![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=24)&nbsp;PC Modding
+## ![Steam Logo](https://api.iconify.design/simple-icons/steam.svg?color=%23A9A9A9&height=24)&nbsp;PC Modding
 
 If you are using SteamVR, follow our [**PC Modding**](pc-guide) guide.
 
@@ -15,13 +15,12 @@ Applicable hardware includes:
 - Windows Mixed Reality headsets
 - Meta Quest/Quest 2/Quest 3 using [**Oculus Link**](https://support.oculus.com/444256562873335/)
 
-> ### [![Steam Logo](https://api.iconify.design/simple-icons/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
+> ### [![Steam Logo](https://api.iconify.design/simple-icons/steam.svg?color=%23A9A9A9&height=19)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
 
-## ![Oculus Logo](https://api.iconify.design/simple-icons/oculus.svg?color=A9A9A9&size=24)&nbsp;Quest Modding
+## ![Oculus Logo](https://api.iconify.design/simple-icons/oculus.svg?color=%23A9A9A9&height=24)&nbsp;Quest Modding
 
-Sadly Quest modding is gone but you can still mod on pc!
-So if you have a pc that can run PCVR then you can continue getting mods!
+Sadly Quest modding is gone but you can still mod on pc!  
+So if you have a pc that can run PCVR then you can continue getting mods!  
 Though you are able to have [custom maps](https://gorillatagmodding.ngbatzstudios.com/#/pc-maploading).
 
-
-> ### [![Steam Logo](https://api.iconify.design/simple-icons/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
+> ### [![Oculus Logo](https://api.iconify.design/simple-icons/oculus.svg?color=%23A9A9A9&height=19)](quest-guide)&nbsp;[**Continue with Quest Modding**](quest-guide)
