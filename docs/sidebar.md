@@ -8,8 +8,8 @@
 - **Extras**
 - [Frequently Asked Questions](../faq)
 - **Links**
-- [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/b2MhDBAzTv)
-- [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/ngbatzyt/GorillaTag-Modding-Guide)
+- [![Discord](https://api.iconify.design/simple-icons/discord.svg?colored&size=16)Discord](https://discord.gg/b2MhDBAzTv)
+- [![GitHub](https://api.iconify.design/simple-icons/github.svg?color=808080&size=16)GitHub](https://github.com/ngbatzyt/GorillaTag-Modding-Guide)
 - [About](../about)
 - **Statistics**
 - ![GitHub last updated](https://img.shields.io/github/last-commit/ngbatzyt/GorillaTag-Modding-Guide?label=last%20updated)
