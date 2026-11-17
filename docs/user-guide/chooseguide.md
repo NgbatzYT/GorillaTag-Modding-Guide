@@ -13,15 +13,15 @@ Applicable hardware includes:
 - HTC Vive/Vive Pro/Vive Pro Eye/Cosmos
 - Oculus Rift/Rift S
 - Windows Mixed Reality headsets
-- Oculus Quest/Quest 2 using [**Oculus Link**](https://support.oculus.com/444256562873335/)
+- Meta Quest/Quest 2/Quest 3 using [**Oculus Link**](https://support.oculus.com/444256562873335/)
 
-> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
+> ### [![Steam Logo](https://api.iconify.design/simple-icons/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
 
-## ![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=24)&nbsp;Quest Modding
+## ![Oculus Logo](https://api.iconify.design/simple-icons/oculus.svg?color=A9A9A9&size=24)&nbsp;Quest Modding
 
 Sadly Quest modding is gone but you can still mod on pc!
 So if you have a pc that can run PCVR then you can continue getting mods!
 Though you are able to have [custom maps](https://gorillatagmodding.ngbatzstudios.com/#/pc-maploading).
 
 
-> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
+> ### [![Steam Logo](https://api.iconify.design/simple-icons/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
